@@ -1,0 +1,11 @@
+1
+2
+3
+Extra;Mandatory marks are BOLD;M
+info;All of these must be selected;M
+about;Optional marks are not bold;O
+marks;Depending on how many of these are selected, the program will assign a grade compared to the cutoff points at the bottom right of the program;O
+will;Once you have finished selecting the criteria, press the MARK button;O
+go;You can then save the results to a text file or PDF;O
+in;You have been supplied a password. You will require this password to access any of the real marking criteria.;O
+here;If you have any questions, email liam.shaw@baltictraining.com;O
